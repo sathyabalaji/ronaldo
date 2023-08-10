@@ -1,0 +1,37 @@
+.mainmenu {
+    background-color:black;
+    padding:5px 5px;
+  }
+  
+  nav ul{
+    list-style: none;
+    text-align: center;
+  }
+
+  nav ul li {
+    display: inline-block;
+    }
+
+    nav ul li a{
+      color: white;
+      font-size: large;
+      font-weight:bold;
+    }
+    
+    
+    body {
+    background-color:#e6e6e8 ;
+    
+    }
+    
+    th {
+      text-decoration-thickness:3px ;
+    } 
+    
+    th {
+    font-size: 20px;
+    }
+
+    .item p{
+      opacity: 1;
+    }
